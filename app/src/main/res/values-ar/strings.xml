@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محفظتي</string>
+    <string name="add_category">اضافة فئة</string>
+    <string name="category_name">أسم الفئة</string>
+    <string name="parent_category">الفئة الاساسية</string>
+    <string name="expense">مصروفات</string>
+    <string name="fields_error">يجب ملئ جميع الحقول</string>
+    <string name="category_adding_failed">خطأ في اضافة الفئة!</string>
+    <string name="category_added">تم اضافة الفئة!</string>
+    <string name="select_type_hint">اختار نوع المعاملة</string>
+    <string name="select_category">اختار الفئة</string>
+    <string-array name="spinner_values">
+        <item>دخل</item>
+        <item>مصروفات</item>
+    </string-array>
+
+
+    <!-->Drawer items<-->
+    <string name="overview">نظرة عامة</string>
+    <string name="expenses">قائمة المصروفات</string>
+    <string name="income">قائمة الدخل</string>
+    <string name="categories">قائمة الفئات</string>
+    <string name="exit">خروج</string>
+
+
+    <string name="add_transaction">اضافة معاملة جديدة</string>
+    <string name="amount">المبلغ</string>
+    <string name="note">ملاحظات</string>
+    <string name="date">التاريخ</string>
+    <string name="transaction_added">تم اضافة المعاملة!</string>
+    <string name="transaction_failed">خطأ في اضافة المعاملة!</string>
+    <string name="cash_label">النقدية الحالية</string>
+    <string name="income_label">الدخل</string>
+    <string name="expense_label">المصروفات</string>
+    <string name="pound">جنيه %1$d</string>
+
+    <string name="change_language">تغيير اللغة</string>
+    <string name="cancel">الغاء</string>
+    <string name="change">تعديل</string>
+    <string name="remove">ازالة</string>
+    <string name="choose">برجاء الاختيار..</string>
+    <string name="delete">مسح</string>
+    <string name="are_you_sure">هل انت متأكد من المسح؟</string>
+    <string name="eng">English</string>
+    <string name="ar">عربي</string>
+
+
+    <string-array name="income_values">
+        <item>مرتب</item>
+        <item>استثمار</item>
+        <item>هدايا</item>
+        <item>بيع</item>
+        <item>اخرى</item>
+    </string-array>
+
+    <string-array name="expense_food_values">
+        <item>مطاعم</item>
+        <item>كافيه</item>
+        <item>مشروبات</item>
+        <item>عصير</item>
+        <item>مشروبات غازية</item>
+        <item>قهوة</item>
+    </string-array>
+
+    <string-array name="expense_bills_values">
+        <item>موبايل</item>
+        <item>مياه</item>
+        <item>كهرباء</item>
+        <item>غاز</item>
+        <item>انترنت</item>
+        <item>ايجار</item>
+    </string-array>
+
+    <string-array name="expense_transportation_values">
+        <item>تاكسي</item>
+        <item>مصاريف ركن</item>
+        <item>بنزين</item>
+        <item>صيانة وتصليح</item>
+    </string-array>
+
+    <string-array name="expense_shopping_values">
+        <item>ملابس</item>
+        <item>احذية</item>
+        <item>اكسسوارات</item>
+        <item>الكترونيات</item>
+    </string-array>
+
+    <string-array name="expense_entertainment_values">
+        <item>سينما</item>
+        <item>العاب</item>
+    </string-array>
+
+    <string-array name="expense_health_values">
+        <item>رياضة</item>
+        <item>دكتور</item>
+        <item>ادوية</item>
+        <item>عناية شخصية</item>
+    </string-array>
+
+    <string-array name="expense_gifts_values">
+        <item>زواج</item>
+        <item>صدقة</item>
+    </string-array>
+
+    <string-array name="expense_education_values">
+        <item>كتب</item>
+        <item>دروس خصوصية</item>
+    </string-array>
+
+    <string-array name="expense_other_values">
+        <item>سداد ديون</item>
+        <item>اقتراض</item>
+    </string-array>
+
+    <string-array name="parent_values">
+        <item>دخل</item>
+        <item>طعام ومشروبات</item>
+        <item>فواتير ومرافق</item>
+        <item>مواصلات</item>
+        <item>تسوق</item>
+        <item>ترفيه</item>
+        <item>صحة</item>
+        <item>هدايا وتبرعات</item>
+        <item>تعليم</item>
+        <item>اخرى</item>
+    </string-array>
+
+
+
+
+    <string name="help_label1">برجاء ادخال اسم الفئة المراد اضافتها</string>
+    <string name="help_label2">برجاء اختيار الفئة الاساسية</string>
+    <string name="help_label3">برجاء تحديد نوع الفئة</string>
+    <string name="please_select_transaction_type">برجاء اختيار نوع المعاملة</string>
+    <string name="please_add_the_amount">برجاء ادخال المبلغ</string>
+    <string name="please_choose_transaction_category">برجاء اختيار فئة المعاملة</string>
+    <string name="please_add_transaction_date">برجاء ادخال تاريخ المعاملة</string>
+    <string name="please_add_notes">برجاء ادخال ملاحظات (ان وجد)</string>
+</resources>

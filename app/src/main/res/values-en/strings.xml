@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mahfazty</string>
+    <string name="add_category">Add Category</string>
+    <string name="category_name">Category name</string>
+    <string name="parent_category">Parent Category</string>
+    <string name="expense">Expense</string>
+    <string name="fields_error">Fields can\'t be empty</string>
+    <string name="category_adding_failed">Failed to add category!</string>
+    <string name="category_added">Category added!</string>
+    <string name="select_type_hint">Select transaction type</string>
+    <string name="select_category">Select category</string>
+    <string-array name="spinner_values">
+    <item>Income</item>
+    <item>Expense</item>
+    </string-array>
+
+
+
+    <!-->Drawer items<-->
+    <string name="overview">Overview</string>
+    <string name="expenses">Expenses</string>
+    <string name="income">Income</string>
+    <string name="categories">Categories</string>
+    <string name="exit">Exit</string>
+
+
+    <string name="add_transaction">Add Transaction</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note</string>
+    <string name="date">Date</string>
+    <string name="transaction_added">Transaction added!</string>
+    <string name="transaction_failed">Transaction adding failed!</string>
+    <string name="cash_label">Current cash</string>
+    <string name="income_label">Income</string>
+    <string name="expense_label">Expense</string>
+    <string name="pound">Pound: %1$d</string>
+
+    <string name="change_language">Change language</string>
+    <string name="cancel">Cancel</string>
+    <string name="change">Change category</string>
+    <string name="remove">Remove category</string>
+    <string name="choose">Choose..</string>
+    <string name="delete">Delete entry</string>
+    <string name="are_you_sure">Are you sure you want to delete this entry?</string>
+
+    <string-array name="income_values">
+        <item>مرتب</item>
+        <item>استثمار</item>
+        <item>هدايا</item>
+        <item>بيع</item>
+        <item>اخرى</item>
+    </string-array>
+
+    <string-array name="expense_food_values">
+        <item>مطاعم</item>
+        <item>كافيه</item>
+        <item>مشروبات</item>
+        <item>عصير</item>
+        <item>مشروبات غازية</item>
+        <item>قهوة</item>
+    </string-array>
+
+    <string-array name="expense_bills_values">
+        <item>موبايل</item>
+        <item>مياه</item>
+        <item>كهرباء</item>
+        <item>غاز</item>
+        <item>انترنت</item>
+        <item>ايجار</item>
+    </string-array>
+
+    <string-array name="expense_transportation_values">
+        <item>تاكسي</item>
+        <item>مصاريف ركن</item>
+        <item>بنزين</item>
+        <item>صيانة وتصليح</item>
+    </string-array>
+
+    <string-array name="expense_shopping_values">
+        <item>ملابس</item>
+        <item>احذية</item>
+        <item>اكسسوارات</item>
+        <item>الكترونيات</item>
+    </string-array>
+
+    <string-array name="expense_entertainment_values">
+        <item>سينما</item>
+        <item>العاب</item>
+    </string-array>
+
+    <string-array name="expense_health_values">
+        <item>رياضة</item>
+        <item>دكتور</item>
+        <item>ادوية</item>
+        <item>عناية شخصية</item>
+    </string-array>
+
+    <string-array name="expense_gifts_values">
+        <item>زواج</item>
+        <item>صدقة</item>
+    </string-array>
+
+    <string-array name="expense_education_values">
+        <item>كتب</item>
+        <item>دروس خصوصية</item>
+    </string-array>
+
+    <string-array name="expense_other_values">
+        <item>سداد ديون</item>
+        <item>اقتراض</item>
+    </string-array>
+
+    <string-array name="parent_values">
+        <item>دخل</item>
+        <item>طعام ومشروبات</item>
+        <item>فواتير ومرافق</item>
+        <item>مواصلات</item>
+        <item>تسوق</item>
+        <item>ترفيه</item>
+        <item>صحة</item>
+        <item>هدايا وتبرعات</item>
+        <item>تعليم</item>
+        <item>اخرى</item>
+    </string-array>
+
+
+
+
+    <string name="help_label1">Please add a category name</string>
+    <string name="help_label2">Please choose a parent category</string>
+    <string name="help_label3">Please choose category type</string>
+    <string name="please_select_transaction_type">Please select transaction type</string>
+    <string name="please_add_the_amount">please add the amount</string>
+    <string name="please_choose_transaction_category">Please choose transaction category</string>
+    <string name="please_add_transaction_date">please add transaction date</string>
+    <string name="please_add_notes">please add notes</string>
+
+</resources>

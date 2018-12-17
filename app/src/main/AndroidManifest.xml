@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Advanced.Academy.Mahfazty">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.Advanced.Academy.Mahfazty.MoneyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="false"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <activity android:name="com.Advanced.Academy.Mahfazty.SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.Advanced.Academy.Mahfazty.MainActivity" />
+        <activity android:name="com.Advanced.Academy.Mahfazty.CategoriesActivity" />
+        <activity android:name="com.Advanced.Academy.Mahfazty.AddCategoryActivity" />
+        <activity android:name="com.Advanced.Academy.Mahfazty.TransactionListActivity" />
+        <activity android:name="com.Advanced.Academy.Mahfazty.AddTransactionActivity" />
+    </application>
+</manifest>
+
